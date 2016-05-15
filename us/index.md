@@ -2,7 +2,7 @@
 title:  Welcome
 short:  welcome
 lang_selector: true
-i18n:   en
+i18n:   us
 ---
 
 

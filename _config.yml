@@ -37,9 +37,9 @@ defaults:
       layout: page
   -
     scope:
-      path:   en
+      path:   us
     values:
-      lang:   en
+      lang:   us
       layout: page
 
 collections:
@@ -61,10 +61,10 @@ collections:
     title:        Техническое
     short:        Техническое
     output:       true
-  en:
+  us:
     output:       true
-    lang:         en
-    title:        En
+    lang:         us
+    title:        US
     short:        Index
 
 google_analytics: "UA-8017247-3"
