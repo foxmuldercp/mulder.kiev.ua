@@ -1,0 +1,11 @@
+---
+require:
+- jekyll-compass
+project_path: "/home/mulder/site/mulder.kiev.ua"
+http_path: "/"
+css_dir: assets/css
+sass_dir: assets/_scss
+images_dir: assets/img
+javascripts_dir: assets/js
+output_style: compressed
+preferred_syntax: sass

@@ -1,2 +1,5 @@
 # mulder.kiev.ua
-my site content
+
+##### Prerequired modules
+* Ruby
+* gems: jekyll jekyll-compass jekyll-sass-converter susy normalize-css jekyll-press

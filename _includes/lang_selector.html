@@ -1,0 +1,7 @@
+{% assign lng_list = site.pages | where: "lang_selector", true %}
+<li class="element">
+  {% for link in lng_list | sort: 'i18n' %}
+    {% assign current_i18n = nil %}{% if page.lang == link.i18n %}{% assign current_i18n = 'current' %}{% endif %}
+    <a class="lang_selector {{ current_i18n }}" href='/{{ link.i18n }}'>{{ link.i18n | upcase }}</a>
+  {% endfor %}
+</li>

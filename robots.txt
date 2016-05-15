@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://mulder.kiev.ua/feed.xml
