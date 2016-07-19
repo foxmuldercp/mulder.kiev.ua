@@ -10,7 +10,7 @@ short: Техническое описание сайта и карта
 Около полгода этот сайт жил и работал на моём домашнем роутере, Cisco 1841
 
 С февраля 2016 сайт использует генератор статического сайта Jekyll и занимает около мегабайта, не считая CV
-и моих композиций
+и моих композиций [репозиторий сайта](//github.com/foxmuldercp/mulder.kiev.ua)
 
 ### Карта
 
@@ -25,6 +25,6 @@ short: Техническое описание сайта и карта
     </li>
   {% endfor %}
   {% for page in site.pages unless page.title %}
-    <li><a href='{{ page.url }}'>{{ page.title }}</a> {{ page.short if page.short }}</li>
+    <li><a href='{{ page.url }}'>{{ page.title }}</a> {{ page.url }} {{ page.short if page.short }}</li>
   {% endfor %}
 </ul>

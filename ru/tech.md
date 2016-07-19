@@ -19,7 +19,7 @@ title: Техническое
 
 Имею несколько публикаций на тему PowerShell и Bash на [habrahabr.ru](//habrahabr.ru/users/foxmuldercp/topics/)
 <table>
-  {% for story in site.tech | sort: 'page.title }}' %}
+  {% for story in site.tech unless story.path == 'index.md' | sort: 'page.title }}' %}
   <tr><td><a href="{{ story.url | prepend: story.baseurl }}">{{ story.title }}</a></td><td>{{ story.short }}</td></tr>
   {% endfor %}
 </table>
