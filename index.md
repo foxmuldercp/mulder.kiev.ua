@@ -1,18 +1,6 @@
 ---
-title:  Привет
-date:   2016-01-01 01:01:01 +0200
-short:  Знакомимся
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-
-![turnaviotov](/assets/img/turnaviotov.png)
-Меня зовут Николай.
-Я системный администратор и программист. Прошёл путь от инженера поддержки до хостмастера
-небольших хостинг проектов
-
-На этом сайте немного рассказал о себе, периодически выкладываю свое творчество [в этом разделе](/ru/stories.html)
-
-При желании со мной можно [связаться](/ru/contact.html), так же тут находятся ссылки на старые **резюме**
-
-Пишу свою панель управления хостингом как сайтов, так и полноценных приложений на _NodeJS_, _RoR_, _Django_ и других ЯП,
-основанную на Ruby on Rails, PostgreSQL, Ansible, включающую в себя как кластерный хостинг экземпляров
-веб приложений, основанный на Docker.io, так и почты, баз данных, проверки и регистрации доменных имён и учет ресурсов.
