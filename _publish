@@ -1,1 +1,1 @@
-jekyll build && scp -r _site/* mulder.kiev.ua:/home/mulder/www/
+jekyll build && scp -r _site/* mulder@mulder.kiev.ua:/home/mulder/www/

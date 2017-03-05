@@ -32,4 +32,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-languages: ["ru", "en", "ua"]
+languages: ["ru", "en"]
+google_analytics: UA-8017247-3
+
+collections:
+  stories:
+    title:        Мои короткие истории
+    short:        Мои короткие истории
+    output:       true
+    path:         _i18n/ru/_stories
+    parmalink:    /:collection/:title:output_ext
