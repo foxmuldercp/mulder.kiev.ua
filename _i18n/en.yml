@@ -1,3 +1,5 @@
 titles:
- index: 'Welcome'
- about: 'About me'
+ index:   'Welcome'
+ about:   'About me'
+ contact: 'Contact'
+ stories: 'Stories'

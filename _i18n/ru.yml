@@ -1,4 +1,5 @@
 titles:
-  index: 'Главная'
-  about: 'О себе'
-  stories: 'Мои истории'
+  index:   'Привет'
+  about:   'О себе'
+  contact: 'Связаться'
+  stories: 'Рассказы'

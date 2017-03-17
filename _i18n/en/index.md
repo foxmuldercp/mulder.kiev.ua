@@ -1,6 +1,10 @@
 My name is Nick.
-I'm a system administrator since 1996 and programmer some last years
+Now i'm a hostmaster@ at some small hosting operators, administrator since 1996 and RoR programmer some last years
 
-This site about me and my work
+Now i create docker-based applications hosting, email, dns, domain operations, sql and another features control panel
+for small hosting operators.
 
-Now i'm a hostmaster@ at some small hosting operators
+Application based on Ruby on Rails, PostgreSQL, Ansible and Docker for a clustered applications hosting.
+
+Some screenshots (ReactJS + [ant.design](//ant.design) as UI)
+[located here](https://1drv.ms/f/s!AvS3PCPMZNLuia8D1FjSB5ICCzvnJA)
