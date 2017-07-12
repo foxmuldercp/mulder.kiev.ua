@@ -6,7 +6,8 @@ You can mail me [here](mailto:fox@mulder.kiev.ua) or [here](mailto:turnaviotovn
 - [Twitter](//twitter.com/fox_mulder_cp), [Facebook](//www.facebook.com/foxmuldercp)
 - [LinkedIn](//ua.linkedin.com/in/turnaviotovnn)
 - [Tumblr](//foxmuldercp.tumblr.com/)
-- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com)
+- [SoundCloud](//soundcloud.com/nikolay-turnaviotov)
+- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com) - discontinued
 
 #### Code
 - [GitHub](//github.com/foxmuldercp)
@@ -16,6 +17,6 @@ You can mail me [here](mailto:fox@mulder.kiev.ua) or [here](mailto:turnaviotovn
 - [Instagram](//instagram.com/turnaviotovnn)
 
 #### Chats
-- Skype [fox_mulder_cp](skype:turnaviotovnn?call)
+- Skype [turnaviotovnn](skype:turnaviotovnn?call)
 - In [IRC](//ru.wikipedia.org/wiki/IRC) networks - [Rusnet](//rusnet.org.ru/) or [FreeNode](https://freenode.net/)
   with nick 'fox_mulder_cp'

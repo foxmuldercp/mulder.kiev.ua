@@ -5,7 +5,8 @@
 - [Twitter](//twitter.com/fox_mulder_cp), [Facebook](//www.facebook.com/foxmuldercp)
 - [LinkedIn](//ua.linkedin.com/in/turnaviotovnn)
 - [Tumblr](//foxmuldercp.tumblr.com/)
-- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com)
+- [SoundCloud](//soundcloud.com/nikolay-turnaviotov)
+- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com) - Практически не подlерживаются
 
 #### Код
 - [GitHub](//github.com/foxmuldercp) (код панели управления на данный момент закрыт)
@@ -18,6 +19,7 @@
 - [Instagram](//instagram.com/turnaviotovnn)
 
 #### Мессенджеры
-- Skype [fox_mulder_cp](skype:turnaviotovnn?call)
+- Skype [turnaviotovnn](skype:turnaviotovnn?call)
+- Viber, Telegram - по запросу
 - В [IRC](//ru.wikipedia.org/wiki/IRC) - [Rusnet](//rusnet.org.ru/) or [FreeNode](https://freenode.net/)
   под ником 'fox_mulder_cp'
