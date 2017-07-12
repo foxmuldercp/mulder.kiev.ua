@@ -7,7 +7,7 @@ You can mail me [here](mailto:fox@mulder.kiev.ua) or [here](mailto:turnaviotovn
 - [LinkedIn](//ua.linkedin.com/in/turnaviotovnn)
 - [Tumblr](//foxmuldercp.tumblr.com/)
 - [SoundCloud](//soundcloud.com/nikolay-turnaviotov)
-- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com) - discontinued
+- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejournal.com/) - discontinued
 
 #### Code
 - [GitHub](//github.com/foxmuldercp)

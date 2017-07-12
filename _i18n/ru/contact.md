@@ -6,10 +6,10 @@
 - [LinkedIn](//ua.linkedin.com/in/turnaviotovnn)
 - [Tumblr](//foxmuldercp.tumblr.com/)
 - [SoundCloud](//soundcloud.com/nikolay-turnaviotov)
-- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejornal.com) - Практически не подlерживаются
+- [Vkontakte](//vkontakte.ru/turnaviotovnn), [LiveJournal](//fox-mulder-cp.livejournal.com/) - Практически не поддерживаются
 
 #### Код
-- [GitHub](//github.com/foxmuldercp) (код панели управления на данный момент закрыт)
+- [GitHub](//github.com/foxmuldercp) (код панели управления хостингом на данный момент закрыт)
 
 #### Статьи
 - [Хабр](https://habrahabr.ru/users/foxmuldercp/topics/)
